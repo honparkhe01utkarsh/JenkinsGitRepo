@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-29T13:01:26Z" name="jenkinsMaven.RediffSearchTest" finished-at="2019-09-29T13:02:26Z" duration-ms="60518">
+    <groups>
+    </groups>
+    <test started-at="2019-09-29T13:01:26Z" name="Command line test" finished-at="2019-09-29T13:02:26Z" duration-ms="60518">
+      <class name="jenkinsMaven.RediffSearchTest">
+        <test-method signature="searchRediff()[pri:0, instance:jenkinsMaven.RediffSearchTest@1b68ddbd]" started-at="2019-09-29T18:31:26Z" name="searchRediff" finished-at="2019-09-29T18:32:26Z" duration-ms="60483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchRediff -->
+      </class> <!-- jenkinsMaven.RediffSearchTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- jenkinsMaven.RediffSearchTest -->
+</testng-results>

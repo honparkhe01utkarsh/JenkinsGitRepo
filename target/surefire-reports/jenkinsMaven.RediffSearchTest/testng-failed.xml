@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [jenkinsMaven.RediffSearchTest]" verbose="0">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="jenkinsMaven.RediffSearchTest">
+        <methods>
+          <include name="searchRediff"/>
+        </methods>
+      </class> <!-- jenkinsMaven.RediffSearchTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [jenkinsMaven.RediffSearchTest] -->
